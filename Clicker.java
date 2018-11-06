@@ -1,33 +1,19 @@
 
-/**
- * Write a description of class Clicker here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 public class Clicker
 {
-    // instance variables - replace the example below with your own
-    private int x;
+    public boolean hasHouse;
+    public int housePower;
+    public int clickPower;
+    public int score;
 
-    /**
-     * Constructor for objects of class Clicker
-     */
+    
     public Clicker()
     {
-        // initialise instance variables
-        x = 0;
+        if (hasHouse = true){
+            
+            
+        }
     }
 
-    /**
-     * An example of a method - replace this comment with your own
-     *
-     * @param  y  a sample parameter for a method
-     * @return    the sum of x and y
-     */
-    public int sampleMethod(int y)
-    {
-        // put your code here
-        return x + y;
-    }
+   
 }
